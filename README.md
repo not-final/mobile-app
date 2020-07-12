@@ -3,7 +3,7 @@
 - No direct push on master ( Always create pull requests )
 - Proper branch names
 - Proper indentation ( Tab with 4 spaces )
-- Proper comments where ever required especially 
+- Proper comments where ever required especially
 - Proper division on code i.e. proper components formation
 - Max depth for firebase collections id 1
 - VETO POWER EXISTS
