@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147536085916",
+    "firebase_url": "https://bookau-5ddc6.firebaseio.com",
+    "project_id": "bookau-5ddc6",
+    "storage_bucket": "bookau-5ddc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147536085916:android:5c405f38dd200dfe207e59",
+        "android_client_info": {
+          "package_name": "com.flutter.bookau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147536085916-5jb22t005km7o8p9km74qr5qe29sbgf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.bookau",
+            "certificate_hash": "ab6e3fdba0c2c148045e79f8098d5f31adb5983f"
+          }
+        },
+        {
+          "client_id": "147536085916-as5i0f09dff4p7s7p4cgb2n72e2rovrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFbPd7VrkDGeuKGz7qBbSGW6gRhJbiGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147536085916-as5i0f09dff4p7s7p4cgb2n72e2rovrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
